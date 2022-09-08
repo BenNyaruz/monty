@@ -1,5 +1,5 @@
 # monty
-###AUTH: MUNYORO MD & BEN NYARUVIRO
+###AUTH: MUNYORO MD & BENJAMIN  NYARUVIRO
 
 #ALX Software Engineers project 0x19. C - Stacks, Queues - LIFO, FIFO
 
