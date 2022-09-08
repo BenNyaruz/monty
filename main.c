@@ -4,6 +4,7 @@
 data_t data = DATA_INIT;
 
 /**
+* AUTH: MUNYORODEE & BENNYARUZ
 * monty - helper function for main function
 * @args: pointer to struct of arguments from main
 *
